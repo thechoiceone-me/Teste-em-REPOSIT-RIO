@@ -1,2 +1,1 @@
-# Teste-em-REPOSIT-RIO
-repositório inicial e definitivo devido ao aprendizado de testes de atenticações blabalbalbalala
+TALVEZ SEJA UM REPOSITÓRIO HIPETÉTICO!s
